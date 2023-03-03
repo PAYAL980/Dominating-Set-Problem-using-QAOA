@@ -1,5 +1,7 @@
 # Dominating-Set-Problem-using-QAOA
 
+Check the analysis report to learn about the problem in detail.
+
 To run the file, specify the inputs in the cell commented Input and run it. Further call the dsp_qaoa function to get 
 the optimal parameters and pass the obtained parameter to plot_result funtion.The above directions are for running on
 non-noisy simulator.
